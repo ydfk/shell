@@ -1,11 +1,4 @@
 #!/bin/bash
-###
- # @Description: Copyright (c) ydfk. All rights reserved
- # @Author: ydfk
- # @Date: 2022-06-06 16:36:22
- # @LastEditors: ydfk
- # @LastEditTime: 2022-06-06 16:37:30
-###
 # wget -O - https://get.hacs.xyz | bash -
 set -e
 
